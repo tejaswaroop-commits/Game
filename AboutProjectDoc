@@ -1,0 +1,45 @@
+Simple Game Assignment
+Screenshots:
+
+  
+
+
+Game Mechanics
+•	Character: The player controls Kyle Robot, who must navigate through the obstacle course while dealing with modified physical attributes: a sprint speed reduced to 2, movement speed to 1, and a jump height of just 1. This significantly increases the difficulty, requiring the player to adopt a cautious and calculated approach to each challenge.
+
+First Challenge: The Bushes, Rotating Obstacles, and Tree
+The first challenge is set on an elevated plane surrounded by bushes, with two rotating obstacles and a tree strategically positioned in the middle. Kyle must carefully maneuver through this section, as the rotating obstacles are timed to create narrow windows for safe passage. Due to his slow movement speed, the player cannot simply rush past the obstacles, making timing and positioning crucial. If Kyle collides with any rotating object, he falls, and the game ends.
+     
+
+Second Challenge: Narrow Stairs and Moving Wall
+After overcoming the first challenge, Kyle encounters a set of narrow stairs, with no safety rails or platforms on either side. As he ascends the stairs, the player must maintain careful control, avoiding any misstep. At the top awaits a moving wall obstacle set over a narrow plane. To get through this part, the player must time Kyle’s movements perfectly to avoid being knocked off by the moving wall. The reduced jump height prevents an easy leap over the obstacle, increasing the difficulty. Success here requires both precision and timing.
+    
+Third Challenge: Thin Cylindrical Path
+The final challenge is a thin cylindrical path that stretches over a long distance, requiring Kyle to proceed extremely slowly and carefully. The path is so narrow that any excessive movement to the left or right risks falling off, forcing the player to focus on steady, precise navigation. Once Kyle successfully crosses the narrow path, he reaches a green surface at the end, signaling the successful completion of the game.
+     
+
+Conclusion
+"Simple Game" provides an engaging and challenging experience for the player by forcing them to adapt to altered movement physics. With its blend of physical and timing-based challenges, the game rewards patience and precise control. The satisfying culmination of passing through the three distinct obstacle courses gives players a sense of accomplishment after traversing the complex VR environment.
+
+Links of AssetStore and Polyhaven assets and materials used:
+
+
+Polyhaven:
+
+1.	https://polyhaven.com/a/oak_veneer_01
+
+2.	https://polyhaven.com/a/rocky_terrain_02
+
+3.	https://polyhaven.com/a/gravel_stones
+
+AssetStore:
+1.	https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169
+
+2.	https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
+
+3.	https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
+
+GitHub Link:
+https://github.com/tejaswaroop-commits/Game
+
+
